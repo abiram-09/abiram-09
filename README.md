@@ -5,4 +5,4 @@
 🎮 Interested in Game Development  
 
 Currently learning C++, Data Structures & Algorithms, and Unreal Engine 5.  
-Working on improving problem-solving skills and building practical projects
+Working on improving problem-solving skills and building practical projects.
